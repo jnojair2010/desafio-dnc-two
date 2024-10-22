@@ -14,3 +14,5 @@
   <h4> Tecnologia estruturado: </h4>
 
 <h3 dir="auto">Acessor</h3>
+hospedagem: https://zippy-ganache-e5d759.netlify.app/
+github: https://github.com/jnojair2010/desafio-dnc-two
