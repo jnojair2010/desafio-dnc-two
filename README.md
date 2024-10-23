@@ -8,7 +8,7 @@
 </ul>
 
 <h3 dir="auto">Descrição</h3>
-<p>Este projeito panding page tem a finalidade de mostrar o endereço e apresentar a temperatira da conforme a alimentação de informações pelo usuario como: cep, latitude e logintude. Foi desenvolvido com react typescritp com aplicação de orientação a objeto, html e css</p>
+<p>Este projeito landing page que tem a finalidade de mostrar o endereço e apresentar a temperatira, conforme a alimentação de informações pelo usuario como: cep, latitude e logintude. Foi desenvolvido com react typescritp com aplicação de orientação a objeto, html e css</p>
 <h3 dir="auto">Interface</h3>
 <div aline="center">
   <img src="https://private-user-images.githubusercontent.com/19231998/379050776-90897662-7a54-483f-ac98-ad8753653d5c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NDE2MTIsIm5iZiI6MTcyOTY0MTMxMiwicGF0aCI6Ii8xOTIzMTk5OC8zNzkwNTA3NzYtOTA4OTc2NjItN2E1NC00ODNmLWFjOTgtYWQ4NzUzNjUzZDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIyVDIzNTUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4NDU2ZTc4NGYxN2E4Zjg2MDkzOTZkM2E2OGIzYTE3M2JhZWQzYjZmMTJhY2Q0MDVkOWFkMDE0ZmJjZDBhY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L2H4S6PkjYnuk_lpbDjx0sTq_s9E_4b2XONPSfasWc0"/>
